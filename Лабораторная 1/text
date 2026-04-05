@@ -1,0 +1,8 @@
+Стратегия(strategy.py)
+Состояние(state.py)
+Фабрика(factory.py)
+Адаптер(adapter.py)
+Декоратор(decorator.py)
+Команда(command.py)
+Шина сообщений(message_bus.py)
+Простая реализация базового класса для паттерна Dataclass(dataclass_example.py)
